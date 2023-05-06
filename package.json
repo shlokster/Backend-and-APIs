@@ -1,6 +1,10 @@
 {
-	"name": "fcc-learn-npm-package-json",
-	"author": "Shlok Bhosale",
+  "name": "fcc-learn-npm-package-json",
+  "author":"Shlok Bhosale",
+  "description":"Helps  you learn NPM",
+  "license":"MIT",
+  "version": "1.1.0",
+  "keywords":["freecodecamp","NPM","node"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
